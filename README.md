@@ -12,12 +12,15 @@ Properties:
 
 ## Visual Results
 
-Comparison of Continuous Spectra
-![download](https://github.com/AbhinitMahajan/Generating-Spectral-Data-/assets/82913786/6e637f35-3cff-4b05-b99b-fef30b3faa4e)
+### Comparison of Continuous Spectra
+![download (1)](https://github.com/AbhinitMahajan/Generating-Spectral-Data-/assets/82913786/301f577b-4df9-424a-8854-f06ea789fcbc)
 *Figure 1: Comparison of continuous spectra between real and synthetic data, illustrating the model's ability to capture the overall trend across different wavelengths.*
 
-![Distribution of Tur Values](image2.png)
+### Distribution of Tur Values
+![download](https://github.com/AbhinitMahajan/Generating-Spectral-Data-/assets/82913786/4ca5294a-a98d-4563-90c9-9f768cb4b724)
 *Figure 2: Histogram of turbidity values comparing the distribution between real and synthetic datasets, showing how closely the synthetic data matches the real data distribution.*
 
-![Real vs. Synthetic Data for column '490'](image3.png)
+### Real vs. Synthetic Data for column '490'
+![newplot](https://github.com/AbhinitMahajan/Generating-Spectral-Data-/assets/82913786/af274968-330f-4330-a3eb-61f386eb07ac)
 *Figure 3: Density plot for the spectral feature at 490 nm, contrasting the real and synthetic data to highlight the synthesis quality at a specific wavelength.*
+
