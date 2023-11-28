@@ -24,3 +24,10 @@ Properties:
 ![newplot](https://github.com/AbhinitMahajan/Generating-Spectral-Data-/assets/82913786/af274968-330f-4330-a3eb-61f386eb07ac)
 *Figure 3: Density plot for the spectral feature at 490 nm, contrasting the real and synthetic data to highlight the synthesis quality at a specific wavelength.*
 
+### References 
+https://docs.sdv.dev/sdv/ : A library that contains information regarding the code present. Helps you produce synthetic tabular data 
+GenModels_Parameters.pdf: Gives you an insight into the model parameters for effective training 
+https://docs.sdv.dev/sdv/single-table-data/sampling/sample-realistic-data: After training model. While generating synthetic data out from trained model; parameters that are used in the generation
+https://www.analyticsvidhya.com/blog/2021/05/tuning-the-hyperparameters-and-layers-of-neural-network-deep-learning/ : neural networks hyperparameter understandig 
+https://www.youtube.com/watch?v=3G5hWM6jqPk : Complete understanding for generative modelling 
+https://docs.google.com/document/d/1JfBW7PVWk_BI9ElmlvWNu-VhNdkZudartsZfPkbbmsY/edit: Generative modelling notes 
